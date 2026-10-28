@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage temporary files
+.coverage
+.coverage.*
+branch_coverage.json
+coverage.xml
+htmlcov/
